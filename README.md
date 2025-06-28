@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   
 # 👋 Hi, I'm **Shieryl Ryle**
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-**"Change is scary, but change is growth."**
+**"Peace is not something you ask for; it's something you work for"**
 
 ⭐️ From [shieryl-ryle](https://github.com/shieryl-ryle)
 
