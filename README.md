@@ -23,15 +23,15 @@
 ## 🌐 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tendillashieryle@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shieryl-ryle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shieryltendilla/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shieryl-ryle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shieryl-ryle.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shieryltendillaportfolio.vercel.app/)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="start">
 
 ## 💻 Languages and Tools
 
@@ -113,30 +113,9 @@
 ## 📊 GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shieryl-ryle&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shieryl-ryle&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shieryl-ryle&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=shieryl-ryle&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shieryl-ryle&bg_color=0d1117&color=a855f7&line=ec4899&point=f97316&area=true&hide_border=true" alt="Activity Graph" />
-
 </div>
 
 ---
@@ -152,7 +131,7 @@
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**"Change is scary, but change is growth."** -idk
 
 ⭐️ From [shieryl-ryle](https://github.com/shieryl-ryle)
 
