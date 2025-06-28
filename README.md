@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm **Shieryl Ryle**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Software+Designer+%26+Developer;Digital+Artist;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Software+Designer+%26+Developer;Digital+Artist;Creative+Problem+Solver;I+craft+exceptional+digital+experiences+with;Code;Creativity;and+a+passion+for+innovation" alt="Typing SVG" />
 
 </div>
 
@@ -31,9 +31,13 @@
 
 ---
 
-<div align="start">
+<div align="center">
 
 ## 💻 Languages and Tools
+
+</div>
+
+<div align="start">
 
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
