@@ -116,9 +116,6 @@
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shieryl-ryle&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shieryl-ryle&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -135,7 +132,7 @@
 
 <div align="center">
 
-**"Change is scary, but change is growth."** -idk
+**"Change is scary, but change is growth."**
 
 ⭐️ From [shieryl-ryle](https://github.com/shieryl-ryle)
 
